@@ -20,9 +20,6 @@ const App = () => {
     setSelectedColumns(columnOptions[0]);
   };
 
-  const updateGrid = () => {
-    // Implement grid update logic if needed
-  };
 
   return (
     <div>
